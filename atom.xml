@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Город Могилев]]></title>
+  <title><![CDATA[Могилев]]></title>
   <link href="http://gorod-mogilev.ru/atom.xml" rel="self"/>
   <link href="http://gorod-mogilev.ru/"/>
-  <updated>2014-01-04T01:21:42+04:00</updated>
+  <updated>2014-01-04T01:26:26+04:00</updated>
   <id>http://gorod-mogilev.ru/</id>
   <author>
     <name><![CDATA[Евгений]]></name>
