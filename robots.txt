@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://gorod-mogilev.ru/sitemap.xml 
